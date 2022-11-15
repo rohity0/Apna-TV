@@ -24,7 +24,7 @@ Apna TV is a movie website that have movies and web series around the world in m
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://i.postimg.cc/9MJdVn5J/Screenshot-223.png)
 
 
 ## Authors
@@ -38,5 +38,5 @@ Apna TV is a movie website that have movies and web series around the world in m
 
 ## Feedback
 
-If you have any feedback, please reach out to us at moneyforey786@gmail.com
+If you have any feedback, please reach out to us at yadavry09@gmail.com 
 
